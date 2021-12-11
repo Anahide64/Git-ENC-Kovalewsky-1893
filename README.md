@@ -1,2 +1,4 @@
 # Git-ENC-Kovalewsky-1893
-Transcription du chapitre 2
+Transcription du chapitre 2 de Kovalewsky M. Coutume contemporaine et loi ancienne : droit coutumier ossétien, éclairé par l'histoire comparée. Paris, 1893
+Premier set de données obtenus grâce à l'OCR de la Bnf. 
+Livre numérisé par la BnF disponible à l'adresse : https://gallica.bnf.fr/ark:/12148/bpt6k1182498b/f1.item
