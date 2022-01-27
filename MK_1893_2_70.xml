@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>D0EDF2D6-7A9E-4CE3-AF0F-F4B68794557F.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="997"
+          HEIGHT="1566"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="997"
+                  HEIGHT="1566">
+        
+        <TextBlock HPOS="198"
+                   VPOS="187"
+                   WIDTH="636"
+                   HEIGHT="1074"
+                   ID="eSc_textblock_e53dbd6d"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="209 187 244 187 250 229 834 229 824 1261 198 1261 209 187"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1423a012"
+                    
+                    BASELINE="207 207 241 204" 
+                    HPOS="203"
+                    VPOS="172"
+                    WIDTH="38"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="207 207 203 172 239 180 241 204 241 212 207 212"/></Shape>
+	    <String CONTENT="70"
+                    HPOS="203"
+                    VPOS="172"
+                    WIDTH="38"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab56660b"
+                    
+                    BASELINE="205 250 833 250" 
+                    HPOS="205"
+                    VPOS="-3"
+                    WIDTH="628"
+                    HEIGHT="261">
+            <Shape><Polygon POINTS="205 250 205 23 346 23 354 15 378 -2 378 -2 380 -2 380 -2 380 -2 381 -2 381 -2 382 -3 833 -3 833 250 833 258 205 258"/></Shape>
+	    <String CONTENT="DROIT COSTUMIER OSSÈTIEN"
+                    HPOS="205"
+                    VPOS="-3"
+                    WIDTH="628"
+                    HEIGHT="261"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dca7b319"
+                    
+                    BASELINE="205 279 832 279" 
+                    HPOS="203"
+                    VPOS="251"
+                    WIDTH="629"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="205 279 203 257 831 251 832 279 832 285 205 289"/></Shape>
+	    <String CONTENT="toujours été une propriété familiale, et ils ne le sont point"
+                    HPOS="203"
+                    VPOS="251"
+                    WIDTH="629"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04af2ae8"
+                    
+                    BASELINE="205 309 832 306" 
+                    HPOS="202"
+                    VPOS="275"
+                    WIDTH="630"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="205 309 202 280 827 275 832 306 831 318 205 321"/></Shape>
+	    <String CONTENT="devenus à la même époque. La terre garde aujourd’hui"
+                    HPOS="202"
+                    VPOS="275"
+                    WIDTH="630"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faec5813"
+                    
+                    BASELINE="206 337 831 337" 
+                    HPOS="206"
+                    VPOS="311"
+                    WIDTH="625"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="206 337 206 311 831 315 831 337 831 345 206 345"/></Shape>
+	    <String CONTENT="encore les traces du caractère qu&#39;elle avait, alors qu’elle."
+                    HPOS="206"
+                    VPOS="311"
+                    WIDTH="625"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e61d785"
+                    
+                    BASELINE="203 366 832 366" 
+                    HPOS="202"
+                    VPOS="340"
+                    WIDTH="630"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="203 366 202 341 831 340 832 366 832 375 203 375"/></Shape>
+	    <String CONTENT="était possédée en commun par un clan tout entier. Nous"
+                    HPOS="202"
+                    VPOS="340"
+                    WIDTH="630"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc00c6e5"
+                    
+                    BASELINE="205 396 832 394" 
+                    HPOS="203"
+                    VPOS="371"
+                    WIDTH="629"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="205 396 203 371 829 371 832 394 831 401 205 404"/></Shape>
+	    <String CONTENT="avons déjà dit que tous les feux d’un même clan élèvent"
+                    HPOS="203"
+                    VPOS="371"
+                    WIDTH="629"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6331c6c"
+                    
+                    BASELINE="205 425 833 422" 
+                    HPOS="201"
+                    VPOS="396"
+                    WIDTH="632"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="205 425 201 404 223 396 224 396 224 396 224 396 226 396 831 401 833 422 833 430 205 431"/></Shape>
+	    <String CONTENT="rencore de nos jours des prétentions sur certains lots de ter-"
+                    HPOS="201"
+                    VPOS="396"
+                    WIDTH="632"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_078cbbdb"
+                    
+                    BASELINE="203 455 831 452" 
+                    HPOS="201"
+                    VPOS="430"
+                    WIDTH="630"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="203 455 201 433 827 430 831 452 831 459 203 461"/></Shape>
+	    <String CONTENT="(rain. Mais d’autres faits démontrent aussi que les clans en¬"
+                    HPOS="201"
+                    VPOS="430"
+                    WIDTH="630"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_771f4b86"
+                    
+                    BASELINE="203 482 828 480" 
+                    HPOS="201"
+                    VPOS="458"
+                    WIDTH="627"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="203 482 201 459 824 458 828 480 827 491 203 491"/></Shape>
+	    <String CONTENT="tiers étaient, à l’origine, les vrais possesseurs de la terre et¬"
+                    HPOS="201"
+                    VPOS="458"
+                    WIDTH="627"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82058f70"
+                    
+                    BASELINE="203 511 828 511" 
+                    HPOS="202"
+                    VPOS="484"
+                    WIDTH="626"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="203 511 202 485 827 484 828 511 828 519 203 522"/></Shape>
+	    <String CONTENT="que les différents feux dont ils se composaient n’avaient que"
+                    HPOS="202"
+                    VPOS="484"
+                    WIDTH="626"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6eaa218f"
+                    
+                    BASELINE="202 540 829 537" 
+                    HPOS="198"
+                    VPOS="510"
+                    WIDTH="631"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="202 540 198 512 825 510 829 537 828 546 202 549"/></Shape>
+	    <String CONTENT="le droit d’en jouir temporairement. Partout où la propriété"
+                    HPOS="198"
+                    VPOS="510"
+                    WIDTH="631"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adb26ec5"
+                    
+                    BASELINE="202 570 827 567" 
+                    HPOS="199"
+                    VPOS="545"
+                    WIDTH="628"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="202 570 199 546 823 545 827 567 825 578 202 578"/></Shape>
+	    <String CONTENT="du feu s’est constituée par un partage, le clan a conservé."
+                    HPOS="199"
+                    VPOS="545"
+                    WIDTH="628"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b6cde55"
+                    
+                    BASELINE="202 597 827 595" 
+                    HPOS="199"
+                    VPOS="572"
+                    WIDTH="628"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="202 597 199 575 823 572 827 595 825 605 202 609"/></Shape>
+	    <String CONTENT="des droits à l’héritage de ce qu’on appelle le bien-mort,"
+                    HPOS="199"
+                    VPOS="572"
+                    WIDTH="628"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81226563"
+                    
+                    BASELINE="202 626 825 622" 
+                    HPOS="199"
+                    VPOS="596"
+                    WIDTH="626"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="202 626 199 605 248 597 248 597 249 597 398 602 415 596 415 596 416 596 416 596 418 596 823 601 825 622 824 629 202 632"/></Shape>
+	    <String CONTENT="c’est-à-dire, du bien resté sans propriétaire par l’extinction."
+                    HPOS="199"
+                    VPOS="596"
+                    WIDTH="626"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_639e5896"
+                    
+                    BASELINE="202 653 828 651" 
+                    HPOS="196"
+                    VPOS="625"
+                    WIDTH="632"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="202 653 196 634 202 626 203 626 203 625 203 625 205 625 205 625 205 625 206 625 206 625 207 625 825 630 828 651 827 662 201 661"/></Shape>
+	    <String CONTENT="complète de tel ou tel « feu» ou communauté familiale."
+                    HPOS="196"
+                    VPOS="625"
+                    WIDTH="632"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ae40d39"
+                    
+                    BASELINE="201 682 827 678" 
+                    HPOS="198"
+                    VPOS="655"
+                    WIDTH="629"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="201 682 198 655 824 656 827 678 825 687 201 690"/></Shape>
+	    <String CONTENT="C’est ainsi que s’explique, dans l’ancien droit romain, la"
+                    HPOS="198"
+                    VPOS="655"
+                    WIDTH="629"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83c25f53"
+                    
+                    BASELINE="199 711 827 707" 
+                    HPOS="196"
+                    VPOS="685"
+                    WIDTH="631"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="199 711 196 687 823 685 827 707 825 715 199 719"/></Shape>
+	    <String CONTENT="succession « des Gentiles, » mentionnée par Galus; les¬"
+                    HPOS="196"
+                    VPOS="685"
+                    WIDTH="631"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a7d6635"
+                    
+                    BASELINE="199 741 827 738" 
+                    HPOS="198"
+                    VPOS="716"
+                    WIDTH="629"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="199 741 198 716 824 716 827 738 825 746 199 751"/></Shape>
+	    <String CONTENT="droits successoraux de la « pfrund » en Suisse et dans l’Alle¬"
+                    HPOS="198"
+                    VPOS="716"
+                    WIDTH="629"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddf25aab"
+                    
+                    BASELINE="199 771 825 768" 
+                    HPOS="197"
+                    VPOS="743"
+                    WIDTH="628"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="199 771 197 746 821 743 825 768 824 777 199 781"/></Shape>
+	    <String CONTENT="magne méridionale; enfin, chez les Irlandais, le retour de"
+                    HPOS="197"
+                    VPOS="743"
+                    WIDTH="628"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91def2b7"
+                    
+                    BASELINE="199 798 825 796" 
+                    HPOS="197"
+                    VPOS="773"
+                    WIDTH="628"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="199 798 197 776 821 773 825 796 824 803 199 806"/></Shape>
+	    <String CONTENT="propriété d’un feu éteint (orba) au clan d’où il était sorti;"
+                    HPOS="197"
+                    VPOS="773"
+                    WIDTH="628"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2756fab5"
+                    
+                    BASELINE="198 827 827 824" 
+                    HPOS="194"
+                    VPOS="796"
+                    WIDTH="633"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="198 827 194 802 823 796 827 824 825 832 198 835"/></Shape>
+	    <String CONTENT="cette propriété est alors transférée dans la catégorie des"
+                    HPOS="194"
+                    VPOS="796"
+                    WIDTH="633"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7371f29e"
+                    
+                    BASELINE="199 857 827 853" 
+                    HPOS="197"
+                    VPOS="827"
+                    WIDTH="630"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="199 857 197 836 235 828 235 828 236 828 394 833 403 827 403 827 405 827 405 827 405 827 406 827 406 827 407 827 824 832 827 853 825 861 199 863"/></Shape>
+	    <String CONTENT="lots formant la possession indivise de tous les parents, à"
+                    HPOS="197"
+                    VPOS="827"
+                    WIDTH="630"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee5a5f71"
+                    
+                    BASELINE="198 884 827 884" 
+                    HPOS="197"
+                    VPOS="859"
+                    WIDTH="630"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 884 197 862 825 859 827 884 827 893 198 893"/></Shape>
+	    <String CONTENT="quelque degré qu’ils appartiennent, autrement dit le"
+                    HPOS="197"
+                    VPOS="859"
+                    WIDTH="630"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4af9b6b9"
+                    
+                    BASELINE="198 914 825 910" 
+                    HPOS="196"
+                    VPOS="888"
+                    WIDTH="629"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 914 196 892 821 888 825 910 824 918 198 922"/></Shape>
+	    <String CONTENT="coibhne. Le droit coutumier des Ossètes est parfaitement"
+                    HPOS="196"
+                    VPOS="888"
+                    WIDTH="629"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3bd5a47"
+                    
+                    BASELINE="198 943 825 940" 
+                    HPOS="196"
+                    VPOS="917"
+                    WIDTH="629"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 943 196 918 821 917 825 940 824 948 198 951"/></Shape>
+	    <String CONTENT="conforme à ces anciennes législations; il reconnaît à tous."
+                    HPOS="196"
+                    VPOS="917"
+                    WIDTH="629"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4ff8fe1"
+                    
+                    BASELINE="198 972 827 969" 
+                    HPOS="196"
+                    VPOS="947"
+                    WIDTH="631"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 972 196 950 823 947 827 969 827 974 198 981"/></Shape>
+	    <String CONTENT="les parents des droits d’héritage sur la terre morte d’un feu."
+                    HPOS="196"
+                    VPOS="947"
+                    WIDTH="631"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c539e71"
+                    
+                    BASELINE="198 1002 825 998" 
+                    HPOS="196"
+                    VPOS="976"
+                    WIDTH="629"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 1002 196 980 821 976 825 998 824 1006 198 1010"/></Shape>
+	    <String CONTENT="qui vient de s’éteindre; cela nous prouve clairement que"
+                    HPOS="196"
+                    VPOS="976"
+                    WIDTH="629"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70ff086d"
+                    
+                    BASELINE="198 1029 825 1025" 
+                    HPOS="197"
+                    VPOS="1003"
+                    WIDTH="628"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 1029 197 1003 823 1004 825 1025 824 1033 198 1037"/></Shape>
+	    <String CONTENT="c&#39;est la propriété de clan qui a donné, chez eux, naissance."
+                    HPOS="197"
+                    VPOS="1003"
+                    WIDTH="628"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c2e8972"
+                    
+                    BASELINE="198 1059 825 1055" 
+                    HPOS="196"
+                    VPOS="1030"
+                    WIDTH="629"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="198 1059 196 1037 821 1030 825 1055 824 1063 198 1066"/></Shape>
+	    <String CONTENT="à la propriété du « feu, » et que cette dernière ne fut à l’o¬"
+                    HPOS="196"
+                    VPOS="1030"
+                    WIDTH="629"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1b5c193"
+                    
+                    BASELINE="198 1085 825 1083" 
+                    HPOS="196"
+                    VPOS="1062"
+                    WIDTH="629"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="198 1085 196 1063 821 1062 825 1083 824 1092 198 1094"/></Shape>
+	    <String CONTENT="rigine qu’une possession temporaire. Cette conclusion est¬"
+                    HPOS="196"
+                    VPOS="1062"
+                    WIDTH="629"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f66e212"
+                    
+                    BASELINE="198 1115 825 1111" 
+                    HPOS="196"
+                    VPOS="1090"
+                    WIDTH="629"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="198 1115 196 1093 821 1090 825 1111 824 1119 198 1123"/></Shape>
+	    <String CONTENT="en partie confirmée par un trait curieux de l’économie ru¬"
+                    HPOS="196"
+                    VPOS="1090"
+                    WIDTH="629"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f72e0cf"
+                    
+                    BASELINE="198 1144 825 1140" 
+                    HPOS="197"
+                    VPOS="1118"
+                    WIDTH="628"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="198 1144 197 1118 823 1119 825 1140 824 1148 198 1152"/></Shape>
+	    <String CONTENT="rale des Ossètes, qu’on ne peut mieux désigner que par le."
+                    HPOS="197"
+                    VPOS="1118"
+                    WIDTH="628"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7c1536d"
+                    
+                    BASELINE="198 1173 823 1170" 
+                    HPOS="194"
+                    VPOS="1141"
+                    WIDTH="629"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="198 1173 194 1151 216 1143 218 1143 218 1143 218 1143 219 1143 499 1148 514 1141 514 1141 516 1141 516 1141 516 1141 517 1141 820 1148 823 1170 821 1177 198 1179"/></Shape>
+	    <String CONTENT="terme allemand flurzwang. Ce mot signifie, comme on le"
+                    HPOS="194"
+                    VPOS="1141"
+                    WIDTH="629"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_580f55bb"
+                    
+                    BASELINE="198 1201 824 1196" 
+                    HPOS="196"
+                    VPOS="1174"
+                    WIDTH="628"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="198 1201 196 1179 820 1174 824 1196 823 1204 198 1209"/></Shape>
+	    <String CONTENT="sait, non seulement la rotation invariable des cultures,"
+                    HPOS="196"
+                    VPOS="1174"
+                    WIDTH="628"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aad3c84f"
+                    
+                    BASELINE="198 1229 824 1225" 
+                    HPOS="196"
+                    VPOS="1204"
+                    WIDTH="628"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="198 1229 196 1208 820 1204 824 1225 824 1233 198 1241"/></Shape>
+	    <String CONTENT="mais encore la nécessité d’observer ponctuellement les ré¬"
+                    HPOS="196"
+                    VPOS="1204"
+                    WIDTH="628"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1eebd769"
+                    
+                    BASELINE="198 1258 823 1255" 
+                    HPOS="197"
+                    VPOS="1234"
+                    WIDTH="626"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="198 1258 197 1234 820 1234 823 1255 823 1268 764 1269 750 1278 748 1278 748 1278 747 1278 747 1278 747 1278 746 1278 612 1272 561 1271 542 1273 509 1280 509 1280 509 1280 508 1280 448 1276 393 1272 333 1277 308 1280 308 1280 307 1280 307 1280 305 1280 305 1280 305 1280 301 1278 288 1272 231 1272 199 1280"/></Shape>
+	    <String CONTENT="glements concernant l’époque de l’accomplissement des"
+                    HPOS="197"
+                    VPOS="1234"
+                    WIDTH="626"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="376"
+                   VPOS="187"
+                   WIDTH="291"
+                   HEIGHT="25"
+                   ID="eSc_textblock_10d6076a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="381 187 662 187 667 212 376 212 381 187"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2da7da8b"
+                    
+                    BASELINE="377 208 663 206" 
+                    HPOS="375"
+                    VPOS="180"
+                    WIDTH="288"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="377 208 375 180 661 181 663 206 662 216 377 217"/></Shape>
+	    <String CONTENT="travaux agricoles; autrement les champs labourés n’au¬"
+                    HPOS="375"
+                    VPOS="180"
+                    WIDTH="288"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="674"
+                   VPOS="1545"
+                   WIDTH="35"
+                   HEIGHT="9"
+                   ID="eSc_textblock_d06450fd"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="679 1545 704 1545 709 1554 674 1554 679 1545"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c8e771c2"
+                    
+                    BASELINE="682 1552 689 1552" 
+                    HPOS="679"
+                    VPOS="1535"
+                    WIDTH="9"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="680 1551 680 1535 688 1535 688 1551 687 1566 679 1564"/></Shape>
+	    <String CONTENT="DROIT COUTUMIER OSSÉTIEN."
+                    HPOS="679"
+                    VPOS="1535"
+                    WIDTH="9"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="956"
+                   VPOS="120"
+                   WIDTH="9"
+                   HEIGHT="9"
+                   ID="eSc_textblock_18d2bd1b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="956 120 965 120 965 129 956 129 956 120"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

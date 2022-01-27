@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Coutume_contemporaine_et_loi_ancienne_[...]Kovalevskij_Maksim_bpt6k1182498b_86.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="997"
+          HEIGHT="1566"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="997"
+                  HEIGHT="1566">
+        
+        <TextBlock HPOS="203"
+                   VPOS="182"
+                   WIDTH="36"
+                   HEIGHT="25"
+                   ID="eSc_textblock_c540e012"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="209 182 233 182 239 202 203 207 209 182"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6ca9f9a3"
+                    
+                    BASELINE="202 204 235 204" 
+                    HPOS="201"
+                    VPOS="170"
+                    WIDTH="34"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="202 204 202 170 235 173 235 204 233 220 201 219"/></Shape>
+	    <String CONTENT="68"
+                    HPOS="201"
+                    VPOS="170"
+                    WIDTH="34"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="376"
+                   VPOS="182"
+                   WIDTH="281"
+                   HEIGHT="25"
+                   ID="eSc_textblock_71f8f677"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="381 182 652 182 657 207 376 207 381 182"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6fe8eb73"
+                    
+                    BASELINE="373 204 657 204" 
+                    HPOS="372"
+                    VPOS="177"
+                    WIDTH="285"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="373 204 372 180 655 177 657 204 657 215 373 215"/></Shape>
+	    <String CONTENT="DROIT COUTUMIER OSSÉTIEN."
+                    HPOS="372"
+                    VPOS="177"
+                    WIDTH="285"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="329"
+                   VPOS="391"
+                   WIDTH="375"
+                   HEIGHT="25"
+                   ID="eSc_textblock_5b56d090"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="329 391 699 391 704 411 329 416 329 391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c18f8f74"
+                    
+                    BASELINE="326 409 701 409" 
+                    HPOS="326"
+                    VPOS="370"
+                    WIDTH="376"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="326 409 326 370 389 381 470 381 483 374 492 370 492 370 493 370 493 370 493 370 495 370 578 377 614 379 624 378 676 370 676 370 678 370 678 370 678 370 679 370 679 370 702 381 701 409 701 428 326 428"/></Shape>
+	    <String CONTENT="DU RÉGIME DES BIENS CHEZ LES OSSÈTES"
+                    HPOS="326"
+                    VPOS="370"
+                    WIDTH="376"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="428"
+                   VPOS="323"
+                   WIDTH="176"
+                   HEIGHT="35"
+                   ID="eSc_textblock_a224c21b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="439 323 599 328 604 348 444 358 428 353 439 323"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d39c9694"
+                    
+                    BASELINE="428 351 599 351" 
+                    HPOS="427"
+                    VPOS="319"
+                    WIDTH="172"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="428 351 428 319 599 319 599 351 598 364 427 357"/></Shape>
+	    <String CONTENT="Chapitre II"
+                    HPOS="427"
+                    VPOS="319"
+                    WIDTH="172"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="198"
+                   VPOS="537"
+                   WIDTH="636"
+                   HEIGHT="724"
+                   ID="eSc_textblock_680bfb11"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="235 537 834 548 824 1261 245 1261 203 1230 198 589 235 537"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0ff59aa9"
+                    
+                    BASELINE="227 563 828 563" 
+                    HPOS="226"
+                    VPOS="528"
+                    WIDTH="602"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="227 563 226 537 290 528 290 528 291 528 291 528 292 528 324 537 375 537 388 528 389 528 389 528 389 528 390 528 390 528 392 528 459 528 459 528 459 528 461 528 461 528 461 528 462 528 462 528 471 536 496 528 497 528 497 528 497 528 499 528 499 528 546 537 704 537 714 528 714 528 716 528 716 528 716 528 717 528 717 528 717 528 718 528 828 537 828 563 827 574 226 571"/></Shape>
+	    <String CONTENT="L’histoire comparée du droit admet, au nombre de ses"
+                    HPOS="226"
+                    VPOS="528"
+                    WIDTH="602"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04f4dbb2"
+                    
+                    BASELINE="203 592 828 589" 
+                    HPOS="201"
+                    VPOS="566"
+                    WIDTH="627"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="203 592 201 566 825 566 828 589 827 596 203 602"/></Shape>
+	    <String CONTENT="principes fondamentaux, que la communauté de biens."
+                    HPOS="201"
+                    VPOS="566"
+                    WIDTH="627"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53a20a17"
+                    
+                    BASELINE="202 619 828 619" 
+                    HPOS="202"
+                    VPOS="596"
+                    WIDTH="626"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="202 619 202 596 828 596 828 619 828 627 202 627"/></Shape>
+	    <String CONTENT="entre personnes unies par les liens du sang a précédé le"
+                    HPOS="202"
+                    VPOS="596"
+                    WIDTH="626"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11ce7746"
+                    
+                    BASELINE="202 648 827 645" 
+                    HPOS="199"
+                    VPOS="619"
+                    WIDTH="628"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="202 648 199 626 823 619 827 645 825 655 202 660"/></Shape>
+	    <String CONTENT="(développement de la propriété privée. Cette communauté"
+                    HPOS="199"
+                    VPOS="619"
+                    WIDTH="628"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8f50a2b"
+                    
+                    BASELINE="203 677 828 677" 
+                    HPOS="203"
+                    VPOS="655"
+                    WIDTH="625"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="203 677 203 655 828 655 828 677 828 683 203 687"/></Shape>
+	    <String CONTENT="prit simultanément deux formes : celle de propriété"
+                    HPOS="203"
+                    VPOS="655"
+                    WIDTH="625"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8d1fdd0"
+                    
+                    BASELINE="202 706 827 706" 
+                    HPOS="201"
+                    VPOS="672"
+                    WIDTH="626"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="202 706 201 681 352 672 354 672 827 681 827 706 827 713 202 716"/></Shape>
+	    <String CONTENT="indivise entre tous les membres d’un même clan et celle"
+                    HPOS="201"
+                    VPOS="672"
+                    WIDTH="626"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fa7e607"
+                    
+                    BASELINE="203 733 829 736" 
+                    HPOS="201"
+                    VPOS="709"
+                    WIDTH="628"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="203 733 203 709 828 712 829 736 827 741 201 739"/></Shape>
+	    <String CONTENT="(de propriété familiale. Mais l’existence de l’une et de"
+                    HPOS="201"
+                    VPOS="709"
+                    WIDTH="628"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc158214"
+                    
+                    BASELINE="202 762 828 766" 
+                    HPOS="199"
+                    VPOS="734"
+                    WIDTH="629"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="202 762 202 734 827 742 828 766 825 772 199 768"/></Shape>
+	    <String CONTENT="l’autre n’empêcha point l’apparition, dès les temps les plus"
+                    HPOS="199"
+                    VPOS="734"
+                    WIDTH="629"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17ecdc21"
+                    
+                    BASELINE="203 792 827 794" 
+                    HPOS="201"
+                    VPOS="768"
+                    WIDTH="626"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="203 792 203 768 825 771 827 794 824 799 201 797"/></Shape>
+	    <String CONTENT="reculés, des premiers germes de la propriété privée. D’a-"
+                    HPOS="201"
+                    VPOS="768"
+                    WIDTH="626"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_967e9193"
+                    
+                    BASELINE="203 819 827 822" 
+                    HPOS="201"
+                    VPOS="790"
+                    WIDTH="626"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="203 819 205 790 224 797 408 793 484 792 486 792 825 799 827 822 824 828 201 826"/></Shape>
+	    <String CONTENT="Ibord les biens meubles, les vêtements, les armes, lui fu-"
+                    HPOS="201"
+                    VPOS="790"
+                    WIDTH="626"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1269c3d"
+                    
+                    BASELINE="202 850 828 848" 
+                    HPOS="198"
+                    VPOS="822"
+                    WIDTH="630"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="202 850 198 831 228 823 229 823 229 823 231 823 488 828 510 822 512 822 512 822 513 822 825 828 828 848 827 856 202 858"/></Shape>
+	    <String CONTENT="rent seuls affectés; plus tard elle s’appliqua aux immeu-"
+                    HPOS="198"
+                    VPOS="822"
+                    WIDTH="630"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5efe032"
+                    
+                    BASELINE="203 876 827 879" 
+                    HPOS="201"
+                    VPOS="849"
+                    WIDTH="626"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="203 876 203 849 825 854 827 879 824 890 201 884"/></Shape>
+	    <String CONTENT="bles, et particulièrement aux terres rendues productives à"
+                    HPOS="201"
+                    VPOS="849"
+                    WIDTH="626"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_206f4e0a"
+                    
+                    BASELINE="202 908 825 908" 
+                    HPOS="202"
+                    VPOS="880"
+                    WIDTH="623"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="202 908 202 880 825 886 825 908 825 917 202 917"/></Shape>
+	    <String CONTENT="la suite de défrichements accomplis par des efforts indivi-"
+                    HPOS="202"
+                    VPOS="880"
+                    WIDTH="623"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cce9d71b"
+                    
+                    BASELINE="203 936 275 936" 
+                    HPOS="202"
+                    VPOS="910"
+                    WIDTH="73"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="203 936 203 910 275 914 275 936 274 946 202 943"/></Shape>
+	    <String CONTENT="duels."
+                    HPOS="202"
+                    VPOS="910"
+                    WIDTH="73"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06950100"
+                    
+                    BASELINE="228 967 825 964" 
+                    HPOS="226"
+                    VPOS="938"
+                    WIDTH="599"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="228 967 226 940 821 938 825 964 824 976 228 976"/></Shape>
+	    <String CONTENT="Les différents aspects sous lesquels se présente à nous le."
+                    HPOS="226"
+                    VPOS="938"
+                    WIDTH="599"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40f9271f"
+                    
+                    BASELINE="203 995 828 995" 
+                    HPOS="203"
+                    VPOS="967"
+                    WIDTH="625"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="203 995 203 967 828 972 828 995 828 1004 203 1006"/></Shape>
+	    <String CONTENT="plus ancien droit de propriété se reproduisent de nos jours"
+                    HPOS="203"
+                    VPOS="967"
+                    WIDTH="625"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7833a669"
+                    
+                    BASELINE="202 1021 828 1024" 
+                    HPOS="199"
+                    VPOS="998"
+                    WIDTH="629"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="202 1021 202 998 827 1000 828 1024 825 1030 199 1028"/></Shape>
+	    <String CONTENT="Ien Ossétie. Depuis la conquête du pays par les Russes, ces"
+                    HPOS="199"
+                    VPOS="998"
+                    WIDTH="629"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afefe389"
+                    
+                    BASELINE="203 1050 825 1054" 
+                    HPOS="201"
+                    VPOS="1027"
+                    WIDTH="624"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="203 1050 203 1027 824 1030 825 1054 823 1062 201 1058"/></Shape>
+	    <String CONTENT="formes primitives sont, il est vrai, plus ou moins effacées,"
+                    HPOS="201"
+                    VPOS="1027"
+                    WIDTH="624"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8622a97c"
+                    
+                    BASELINE="202 1079 827 1081" 
+                    HPOS="201"
+                    VPOS="1057"
+                    WIDTH="626"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="202 1079 202 1057 825 1059 827 1081 825 1088 201 1090"/></Shape>
+	    <String CONTENT="mais avant cette époque, elles apparaissaient avec tous les"
+                    HPOS="201"
+                    VPOS="1057"
+                    WIDTH="626"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_793dff9b"
+                    
+                    BASELINE="203 1106 475 1110" 
+                    HPOS="201"
+                    VPOS="1083"
+                    WIDTH="274"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="203 1106 203 1083 474 1087 475 1110 473 1117 201 1113"/></Shape>
+	    <String CONTENT="Itraits de principes vitaux."
+                    HPOS="201"
+                    VPOS="1083"
+                    WIDTH="274"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f6c7fc4"
+                    
+                    BASELINE="226 1137 827 1137" 
+                    HPOS="226"
+                    VPOS="1114"
+                    WIDTH="601"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="226 1137 226 1114 827 1115 827 1137 827 1144 226 1145"/></Shape>
+	    <String CONTENT="Nous avons déjà eu l’occasion de dire que la commu-"
+                    HPOS="226"
+                    VPOS="1114"
+                    WIDTH="601"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb002c00"
+                    
+                    BASELINE="203 1164 825 1167" 
+                    HPOS="202"
+                    VPOS="1140"
+                    WIDTH="623"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="203 1164 203 1140 824 1144 825 1167 824 1173 202 1174"/></Shape>
+	    <String CONTENT="nauté de famille est propriétaire en Ossétie. Nous allons"
+                    HPOS="202"
+                    VPOS="1140"
+                    WIDTH="623"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddf5375e"
+                    
+                    BASELINE="203 1195 827 1195" 
+                    HPOS="203"
+                    VPOS="1173"
+                    WIDTH="624"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="203 1195 203 1173 827 1173 827 1195 827 1204 203 1204"/></Shape>
+	    <String CONTENT="maintenant examiner d’une manière plus détaillée la situa-"
+                    HPOS="203"
+                    VPOS="1173"
+                    WIDTH="624"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1706784f"
+                    
+                    BASELINE="203 1222 753 1225" 
+                    HPOS="201"
+                    VPOS="1197"
+                    WIDTH="552"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="203 1222 203 1197 752 1201 753 1225 751 1235 201 1230"/></Shape>
+	    <String CONTENT="tion de cette communauté sous le rapport des biens."
+                    HPOS="201"
+                    VPOS="1197"
+                    WIDTH="552"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df880b3a"
+                    
+                    BASELINE="227 1252 827 1252" 
+                    HPOS="224"
+                    VPOS="1224"
+                    WIDTH="603"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="227 1252 227 1224 827 1230 827 1252 827 1269 777 1273 776 1273 776 1273 776 1273 774 1273 774 1273 774 1273 773 1273 773 1273 773 1272 770 1269 768 1267 763 1269 753 1273 753 1273 752 1273 752 1273 752 1273 751 1273 751 1273 751 1273 750 1273 736 1269 730 1267 727 1269 723 1272 723 1273 723 1273 722 1273 722 1273 722 1273 721 1273 721 1273 721 1273 719 1273 719 1273 718 1273 718 1273 718 1273 709 1269 706 1268 699 1269 665 1274 665 1274 663 1274 663 1274 663 1274 662 1274 645 1268 638 1267 632 1268 619 1273 619 1273 618 1273 618 1273 618 1273 616 1273 547 1268 526 1267 523 1268 516 1274 516 1274 514 1274 514 1274 514 1274 513 1274 513 1274 512 1274 512 1274 457 1267 450 1267 449 1267 442 1273 442 1274 442 1274 441 1274 441 1274 441 1274 440 1274 440 1274 440 1276 325 1276 324 1274 324 1274 322 1274 297 1267 287 1274 286 1274 286 1274 286 1274 284 1274 284 1274 284 1276 249 1276 248 1274 248 1274 246 1274 246 1274 224 1265"/></Shape>
+	    <String CONTENT="Les biens meubles, comme les immeubles, sont considé-"
+                    HPOS="224"
+                    VPOS="1224"
+                    WIDTH="603"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="632"
+                   VPOS="1539"
+                   WIDTH="333"
+                   HEIGHT="15"
+                   ID="eSc_textblock_159a641b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="669 1539 902 1539 965 1549 632 1554 669 1539"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="946"
+                   VPOS="1351"
+                   WIDTH="19"
+                   HEIGHT="15"
+                   ID="eSc_textblock_efaaec2a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="946 1351 965 1351 965 1361 946 1366 946 1351"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1bc53c6d"
+                    
+                    BASELINE="785 93 779 78 822 28 841 6 949 0" 
+                    HPOS="779"
+                    VPOS="0"
+                    WIDTH="170"
+                    HEIGHT="93">
+            
+	    <String CONTENT="(Les biens meubles, comme les immeubles, sont considé."
+                    HPOS="779"
+                    VPOS="0"
+                    WIDTH="170"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f439746a"
+                    
+                    BASELINE="943 1309 946 1406 943 1458 940 1505 940 1496 943 1464 946 1334 949 1281 953 1266 953 1263 968 1322 965 1523" 
+                    HPOS="940"
+                    VPOS="1263"
+                    WIDTH="28"
+                    HEIGHT="260">
+            
+	    <String CONTENT=""
+                    HPOS="940"
+                    VPOS="1263"
+                    WIDTH="28"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a19d8447"
+                    
+                    BASELINE="980 1331 974 1328 959 1350 915 1443" 
+                    HPOS="892"
+                    VPOS="1314"
+                    WIDTH="95"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="978 1329 987 1336 955 1376 929 1447 914 1442 892 1426 917 1413 926 1396 934 1378 927 1353 927 1351 927 1351 927 1350 927 1350 927 1350 927 1350 927 1349 927 1349 944 1314"/></Shape>
+	    <String CONTENT=""
+                    HPOS="892"
+                    VPOS="1314"
+                    WIDTH="95"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
