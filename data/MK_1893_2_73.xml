@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>MK_1893_2_73.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1005"
+          HEIGHT="1566"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1005"
+                  HEIGHT="1566">
+        
+        <TextBlock HPOS="780"
+                   VPOS="192"
+                   WIDTH="31"
+                   HEIGHT="25"
+                   ID="eSc_textblock_ae3afe48"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="811 193 811 217 780 217 780 192"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2b2a35d1"
+                    
+                    BASELINE="258 212 732 208" 
+                    HPOS="255.0"
+                    VPOS="176.0"
+                    WIDTH="477.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="258 212 255 184 633 184 638 182 676 176 676 176 677 176 677 176 729 182 732 208 730 219 258 220"/></Shape>
+	    <String CONTENT="CHAP. II. RÉGIME DES BIENS CHEZ LES OSSÈTES."
+                    HPOS="255.0"
+                    VPOS="176.0"
+                    WIDTH="477.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d29caf6"
+                    
+                    BASELINE="775 210 807 207" 
+                    HPOS="772.0"
+                    VPOS="167.0"
+                    WIDTH="35.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="775 210 772 167 805 176 807 207 807 217 775 221"/></Shape>
+	    <String CONTENT="73"
+                    HPOS="772.0"
+                    VPOS="167.0"
+                    WIDTH="35.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5014a35"
+                    
+                    BASELINE="182 255 807 247" 
+                    HPOS="178.0"
+                    VPOS="228.0"
+                    WIDTH="629.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="182 255 178 230 309 228 310 228 310 228 311 228 311 228 311 228 317 230 332 238 804 232 807 247 807 258 182 263"/></Shape>
+	    <String CONTENT="le labourage. Dans l’Ossétie méridionale, au dire de M. Fla¬"
+                    HPOS="178.0"
+                    VPOS="228.0"
+                    WIDTH="629.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9789b08"
+                    
+                    BASELINE="185 284 809 277" 
+                    HPOS="182.0"
+                    VPOS="257.0"
+                    WIDTH="627.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="185 284 182 263 805 257 809 277 807 287 185 292"/></Shape>
+	    <String CONTENT="roysky, le labourage de la terre se fait annuellement à"
+                    HPOS="182.0"
+                    VPOS="257.0"
+                    WIDTH="627.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf7afb73"
+                    
+                    BASELINE="184 314 809 309" 
+                    HPOS="184"
+                    VPOS="287"
+                    WIDTH="627"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="184 314 185 292 811 287 808 309 807 321 184 322"/></Shape>
+	    <String CONTENT="quatre époques différentes: au printemps, pendant quinze"
+                    HPOS="184"
+                    VPOS="287"
+                    WIDTH="627"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f7b7007"
+                    
+                    BASELINE="182 344 809 337" 
+                    HPOS="180.0"
+                    VPOS="313.0"
+                    WIDTH="629.0"
+                    HEIGHT="43.0">
+            <Shape><Polygon POINTS="182 344 180 317 805 313 809 337 807 349 182 356"/></Shape>
+	    <String CONTENT="jours, époque connue sous le nom de guisane-kouli; en"
+                    HPOS="180.0"
+                    VPOS="313.0"
+                    WIDTH="629.0"
+                    HEIGHT="43.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f417ade8"
+                    
+                    BASELINE="185 373 809 366" 
+                    HPOS="182.0"
+                    VPOS="340.0"
+                    WIDTH="627.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="185 373 182 351 805 340 809 366 807 377 185 384"/></Shape>
+	    <String CONTENT="été, à deux époques différentes, connues la première sous"
+                    HPOS="182.0"
+                    VPOS="340.0"
+                    WIDTH="627.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_686ab720"
+                    
+                    BASELINE="185 403 811 395" 
+                    HPOS="182.0"
+                    VPOS="373.0"
+                    WIDTH="629.0"
+                    HEIGHT="36.0">
+            <Shape><Polygon POINTS="185 403 182 377 807 373 811 395 811 399 185 409"/></Shape>
+	    <String CONTENT="le nom d’aneouli et la seconde sous celui d’ouguel; en au¬"
+                    HPOS="182.0"
+                    VPOS="373.0"
+                    WIDTH="629.0"
+                    HEIGHT="36.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0a284f0"
+                    
+                    BASELINE="186 430 810 424" 
+                    HPOS="184.0"
+                    VPOS="399.0"
+                    WIDTH="626.0"
+                    HEIGHT="43.0">
+            <Shape><Polygon POINTS="186 430 184 408 806 399 810 424 809 434 186 442"/></Shape>
+	    <String CONTENT="tomne enfin, pendant dix-sept jours, époque appelée sché¬"
+                    HPOS="184.0"
+                    VPOS="399.0"
+                    WIDTH="626.0"
+                    HEIGHT="43.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5af0370f"
+                    
+                    BASELINE="186 459 811 452" 
+                    HPOS="184.0"
+                    VPOS="431.0"
+                    WIDTH="627.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="186 459 184 438 807 431 811 452 810 460 186 469"/></Shape>
+	    <String CONTENT="mod-gomo (1). On trouve, du reste, des coutumes semblables"
+                    HPOS="184.0"
+                    VPOS="431.0"
+                    WIDTH="627.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_055e9481"
+                    
+                    BASELINE="186 489 810 482" 
+                    HPOS="184.0"
+                    VPOS="459.0"
+                    WIDTH="626.0"
+                    HEIGHT="36.0">
+            <Shape><Polygon POINTS="186 489 184 467 806 459 810 482 809 493 186 495"/></Shape>
+	    <String CONTENT="non seulement chez les Ossètes, mais en général chez"
+                    HPOS="184.0"
+                    VPOS="459.0"
+                    WIDTH="626.0"
+                    HEIGHT="36.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be6c72f0"
+                    
+                    BASELINE="187 519 811 511" 
+                    HPOS="185.0"
+                    VPOS="486.0"
+                    WIDTH="626.0"
+                    HEIGHT="41.0">
+            <Shape><Polygon POINTS="187 519 185 494 807 486 811 511 810 519 187 527"/></Shape>
+	    <String CONTENT="tous les habitants des districts de Gori et de Douschet; cette"
+                    HPOS="185.0"
+                    VPOS="486.0"
+                    WIDTH="626.0"
+                    HEIGHT="41.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b1d0b7b"
+                    
+                    BASELINE="186 549 811 540" 
+                    HPOS="184.0"
+                    VPOS="518.0"
+                    WIDTH="627.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="186 549 184 524 807 518 811 540 810 546 186 555"/></Shape>
+	    <String CONTENT="circonstance nous porte à croire que les règles que nous"
+                    HPOS="184.0"
+                    VPOS="518.0"
+                    WIDTH="627.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83769cdc"
+                    
+                    BASELINE="187 575 811 568" 
+                    HPOS="185.0"
+                    VPOS="548.0"
+                    WIDTH="626.0"
+                    HEIGHT="36.0">
+            <Shape><Polygon POINTS="187 575 185 554 807 548 811 568 810 578 187 584"/></Shape>
+	    <String CONTENT="venons d’étudier doivent leur origine au droit ou plutôt à"
+                    HPOS="185.0"
+                    VPOS="548.0"
+                    WIDTH="626.0"
+                    HEIGHT="36.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e6e9f95"
+                    
+                    BASELINE="186 605 811 596" 
+                    HPOS="184.0"
+                    VPOS="575.0"
+                    WIDTH="627.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="186 605 184 582 807 575 811 596 810 605 186 614"/></Shape>
+	    <String CONTENT="la coutume géorgienne, imposée aux Ossètes par leurs sei¬"
+                    HPOS="184.0"
+                    VPOS="575.0"
+                    WIDTH="627.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c6e666b"
+                    
+                    BASELINE="186 635 813 626" 
+                    HPOS="182.0"
+                    VPOS="605.0"
+                    WIDTH="631.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="186 635 182 614 197 606 197 606 197 606 198 606 198 606 198 606 199 606 263 612 270 606 270 605 270 605 271 605 271 605 271 605 272 605 272 605 274 605 810 605 813 626 811 634 186 644"/></Shape>
+	    <String CONTENT="gneurs féodaux. Par suite des conditions climatériques et"
+                    HPOS="182.0"
+                    VPOS="605.0"
+                    WIDTH="631.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa28811c"
+                    
+                    BASELINE="186 662 814 655" 
+                    HPOS="184.0"
+                    VPOS="631.0"
+                    WIDTH="630.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="186 662 184 642 810 631 814 655 813 662 186 670"/></Shape>
+	    <String CONTENT="orographiques, les travaux de l’agriculture sont purement"
+                    HPOS="184.0"
+                    VPOS="631.0"
+                    WIDTH="630.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00c8fce6"
+                    
+                    BASELINE="186 690 814 685" 
+                    HPOS="184.0"
+                    VPOS="661.0"
+                    WIDTH="630.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="186 690 184 669 810 661 814 685 813 692 186 698"/></Shape>
+	    <String CONTENT="secondaires dans la région des hautes vallées qu’occupent."
+                    HPOS="184.0"
+                    VPOS="661.0"
+                    WIDTH="630.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_712faf3f"
+                    
+                    BASELINE="186 720 814 713" 
+                    HPOS="184.0"
+                    VPOS="687.0"
+                    WIDTH="630.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="186 720 184 698 616 687 617 687 811 692 814 713 813 720 186 726"/></Shape>
+	    <String CONTENT="les Ossètes septentrionaux; on ne met en culture que de"
+                    HPOS="184.0"
+                    VPOS="687.0"
+                    WIDTH="630.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47234baa"
+                    
+                    BASELINE="187 749 813 741" 
+                    HPOS="185.0"
+                    VPOS="719.0"
+                    WIDTH="628.0"
+                    HEIGHT="41.0">
+            <Shape><Polygon POINTS="187 749 185 724 809 719 813 741 811 749 187 760"/></Shape>
+	    <String CONTENT="petits lots de terrain, sur lesquels on a enlevé les pierres"
+                    HPOS="185.0"
+                    VPOS="719.0"
+                    WIDTH="628.0"
+                    HEIGHT="41.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2683e3c0"
+                    
+                    BASELINE="186 776 814 769" 
+                    HPOS="184.0"
+                    VPOS="743.0"
+                    WIDTH="630.0"
+                    HEIGHT="41.0">
+            <Shape><Polygon POINTS="186 776 184 755 234 747 234 747 236 747 236 747 280 752 284 752 810 743 814 769 814 776 186 784"/></Shape>
+	    <String CONTENT="et qui sont arrosés artificiellement. L’agriculture, n’étant"
+                    HPOS="184.0"
+                    VPOS="743.0"
+                    WIDTH="630.0"
+                    HEIGHT="41.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff012f15"
+                    
+                    BASELINE="189 806 813 798" 
+                    HPOS="186.0"
+                    VPOS="772.0"
+                    WIDTH="627.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="189 806 186 785 809 772 813 798 811 806 189 814"/></Shape>
+	    <String CONTENT="qu’une exception dans ces parages, n’est point, par consé¬"
+                    HPOS="186.0"
+                    VPOS="772.0"
+                    WIDTH="627.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_874e1c2a"
+                    
+                    BASELINE="187 836 814 828" 
+                    HPOS="185.0"
+                    VPOS="801.0"
+                    WIDTH="629.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="187 836 185 814 421 803 422 803 488 809 498 802 499 802 499 802 499 802 501 802 501 802 501 802 502 802 570 807 603 801 603 801 603 801 604 801 811 806 814 828 813 835 187 843"/></Shape>
+	    <String CONTENT="quent, soumise à la sévère réglementation à laquelle elle"
+                    HPOS="185.0"
+                    VPOS="801.0"
+                    WIDTH="629.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc92b2fd"
+                    
+                    BASELINE="187 865 814 857" 
+                    HPOS="185.0"
+                    VPOS="833.0"
+                    WIDTH="629.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="187 865 185 841 810 833 814 857 813 869 187 871"/></Shape>
+	    <String CONTENT="est assujettie sur les versants méridionaux de la chaîne du"
+                    HPOS="185.0"
+                    VPOS="833.0"
+                    WIDTH="629.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24de6299"
+                    
+                    BASELINE="187 895 814 887" 
+                    HPOS="185.0"
+                    VPOS="863.0"
+                    WIDTH="629.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="187 895 185 871 810 863 814 887 813 893 187 901"/></Shape>
+	    <String CONTENT="Caucase. Quant aux aouls ossètes disséminés sur le plateau"
+                    HPOS="185.0"
+                    VPOS="863.0"
+                    WIDTH="629.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b7235c9"
+                    
+                    BASELINE="187 923 814 914" 
+                    HPOS="185.0"
+                    VPOS="892.0"
+                    WIDTH="629.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="187 923 185 901 810 892 814 914 813 923 187 931"/></Shape>
+	    <String CONTENT="septentrional, comme ils sont organisés d’après le modèle"
+                    HPOS="185.0"
+                    VPOS="892.0"
+                    WIDTH="629.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f429152"
+                    
+                    BASELINE="189 951 814 944" 
+                    HPOS="186.0"
+                    VPOS="923.0"
+                    WIDTH="628.0"
+                    HEIGHT="34.0">
+            <Shape><Polygon POINTS="189 951 186 930 810 923 814 944 813 956 189 957"/></Shape>
+	    <String CONTENT="des stanitzas cosaques leurs voisines, sur le principe de"
+                    HPOS="186.0"
+                    VPOS="923.0"
+                    WIDTH="628.0"
+                    HEIGHT="34.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56726665"
+                    
+                    BASELINE="189 981 814 972" 
+                    HPOS="186.0"
+                    VPOS="950.0"
+                    WIDTH="628.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="189 981 186 953 810 950 814 972 813 980 189 989"/></Shape>
+	    <String CONTENT="l’appropriation collective du sol, ils ont reçu de ces der¬"
+                    HPOS="186.0"
+                    VPOS="950.0"
+                    WIDTH="628.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34155e07"
+                    
+                    BASELINE="189 1010 814 1002" 
+                    HPOS="186.0"
+                    VPOS="980.0"
+                    WIDTH="628.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="189 1010 186 987 810 980 814 1002 814 1008 189 1019"/></Shape>
+	    <String CONTENT="nières la réglementation économique imposée par le com¬"
+                    HPOS="186.0"
+                    VPOS="980.0"
+                    WIDTH="628.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7841d385"
+                    
+                    BASELINE="190 1037 382 1034" 
+                    HPOS="187.0"
+                    VPOS="1012.0"
+                    WIDTH="195.0"
+                    HEIGHT="33.0">
+            <Shape><Polygon POINTS="190 1037 187 1015 378 1012 382 1034 382 1045 190 1045"/></Shape>
+	    <String CONTENT="munisme agraire."
+                    HPOS="187.0"
+                    VPOS="1012.0"
+                    WIDTH="195.0"
+                    HEIGHT="33.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cf0d393"
+                    
+                    BASELINE="214 1066 815 1059" 
+                    HPOS="212.0"
+                    VPOS="1030.0"
+                    WIDTH="603.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="214 1066 212 1040 570 1040 575 1037 593 1032 595 1032 595 1032 595 1032 596 1032 656 1037 661 1037 664 1037 694 1030 694 1030 694 1030 695 1030 813 1037 815 1059 814 1070 214 1072"/></Shape>
+	    <String CONTENT="Nous trouvons en Ossétie, non seulement des vestiges"
+                    HPOS="212.0"
+                    VPOS="1030.0"
+                    WIDTH="603.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_374e32a7"
+                    
+                    BASELINE="190 1094 815 1089" 
+                    HPOS="187.0"
+                    VPOS="1066.0"
+                    WIDTH="628.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="190 1094 187 1071 811 1066 815 1089 815 1096 190 1101"/></Shape>
+	    <String CONTENT="qui démontrent que les travaux agricoles étaient autrefois"
+                    HPOS="187.0"
+                    VPOS="1066.0"
+                    WIDTH="628.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31d90d31"
+                    
+                    BASELINE="190 1122 814 1117" 
+                    HPOS="187.0"
+                    VPOS="1096.0"
+                    WIDTH="627.0"
+                    HEIGHT="34.0">
+            <Shape><Polygon POINTS="190 1122 187 1098 810 1096 814 1117 813 1124 190 1130"/></Shape>
+	    <String CONTENT="exécutés en commun, mais encore des exemples vivants"
+                    HPOS="187.0"
+                    VPOS="1096.0"
+                    WIDTH="627.0"
+                    HEIGHT="34.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_093cfca7"
+                    
+                    BASELINE="189 1152 814 1145" 
+                    HPOS="185.0"
+                    VPOS="1122.0"
+                    WIDTH="629.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="189 1152 185 1126 810 1122 814 1145 813 1153 189 1161"/></Shape>
+	    <String CONTENT="d’un pareil ordre de choses. Ainsi les feux voisins ont cou¬"
+                    HPOS="185.0"
+                    VPOS="1122.0"
+                    WIDTH="629.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6835361"
+                    
+                    BASELINE="191 1181 814 1174" 
+                    HPOS="189.0"
+                    VPOS="1151.0"
+                    WIDTH="625.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="191 1181 189 1154 810 1151 814 1174 813 1190 191 1190"/></Shape>
+	    <String CONTENT="tume de s’entr’aider les uns les autres et de se prêter"
+                    HPOS="189.0"
+                    VPOS="1151.0"
+                    WIDTH="625.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="193"
+                   VPOS="1216"
+                   WIDTH="624"
+                   HEIGHT="56"
+                   ID="eSc_textblock_358d9066"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="817 1221 817 1246 193 1272 208 1226 740 1216"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1d04dcda"
+                    
+                    BASELINE="208 1247 815 1241" 
+                    HPOS="206.0"
+                    VPOS="1221.0"
+                    WIDTH="609.0"
+                    HEIGHT="34.0">
+            <Shape><Polygon POINTS="208 1247 206 1228 811 1221 815 1241 815 1248 208 1255"/></Shape>
+	    <String CONTENT="(1) Description des possessions russes du Transcaucase, t. I, p. 60, le dis¬"
+                    HPOS="206.0"
+                    VPOS="1221.0"
+                    WIDTH="609.0"
+                    HEIGHT="34.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be519a11"
+                    
+                    BASELINE="191 1268 305 1271" 
+                    HPOS="189.0"
+                    VPOS="1244.0"
+                    WIDTH="116.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 1268 191 1244 304 1247 305 1271 302 1281 189 1277"/></Shape>
+	    <String CONTENT="trict de Gori."
+                    HPOS="189.0"
+                    VPOS="1244.0"
+                    WIDTH="116.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="182"
+                   VPOS="227"
+                   WIDTH="640"
+                   HEIGHT="961"
+                   ID="eSc_textblock_5e463d8c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="822 1183 193 1188 182 234 574 227 811 227"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="255"
+                   VPOS="187"
+                   WIDTH="478"
+                   HEIGHT="30"
+                   ID="eSc_textblock_64de0f1d"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="523 217 255 212 261 193 640 187 733 190 733 217"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
