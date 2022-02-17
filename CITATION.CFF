@@ -7,8 +7,9 @@ authors:
   given-names: 'Kate'
 - family-names: 'Kasparian'
   given-names: 'Anahide'
-title: "OCR d'une poésie corse"
-version: 0.0.1
+title: "Projet Kovaleswky - 1893"
+version: 1.0
+doi: 10.5281/zenodo.6126633 
 date-released: 2022-02-14
 url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-Kovalewsky-1893"
 type: data 
